@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+p,li {font-family:monospace ;
+font-size:14pt;
+list-style-type:upper-roman;
+
+}
+.p1{color:red; 
+    font-size: 15pt; 
+    font-weight:bold; 
+    text-align: center;
+}
+
+</style>
+</head>
+<body>
+
+
+<p class="p1">Personal</p>
+<p>Name: Rashad Rais Saeed</p>
+<p>Birth date: 1/11/1998</p>
+<p>Address:Upeer camdas</p>
+<p>Email: rashad1456@gmail.com</p>
+<p>Phone number:09560072962</p>
+
+<p class="p1">Work experience </p>
+<ul>
+<li>Worked at computershop for 3 years</li>
+</ul>
+<p class="p1">Skilles</p>
+<ul>
+<li>time management</li>
+<li>Speed in performance</li>
+<li>Good behavior and dealing with others</li>
+<li>Ability to withstand work pressures</li>
+</ul>
+<p class="p1">Education</p>
+<ul>
+<li>BSIT</li>
+</ul>
+<p class="p1">Languages</p>
+<ul>
+<li>Arabic</li>
+<li>English</li>
+</ul>
+
+
+</body>
+</html>

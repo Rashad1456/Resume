@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<h1>Resume</h1>
+<h3>Personal</h3>
+<p>Name: Rashad Rais Saeed</p>
+<p>Birth date: 1/11/1998</p>
+<p>Address:Upeer camdas</p>
+<p>Email: rashad1456@gmail.com</p>
+<p>Phone number:09560072962</p>
+
+<h3>Work experience </h3>
+<ul>
+<li>Worked at computershop for 3 years</li>
+</ul>
+<h3>Skilles</h3>
+<ul>
+<li>time management</li>
+<li>Speed in performance</li>
+<li>Good behavior and dealing with others</li>
+<li>Ability to withstand work pressures</li>
+</ul>
+<h3>Education</h3>
+<ul>
+<li>BSIT</li>
+</ul>
+<h3>Languages</h3>
+<ul>
+<li>Arabic</li>
+<li>English</li>
+</ul>
+
+</body>
+</html>
